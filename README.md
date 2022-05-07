@@ -14,12 +14,13 @@ Class ID: 109214,           Semester: Spring-2022
   |     13232     |  Atif Shahid Qureshi   |
   
 Problems you face and how you solved them?
-Creating account on Kraggle. But it got fixed when we create it via Mobile
-Downloading Panda Library
+
+->Creating account on Kraggle. But it got fixed when we create it via Mobile
+->Downloading Panda Library
 
 Tasks of each member?
 
-Combine efforts of all group members, all participants contribute equally.
+Combine efforts of all group members, all participants contributed equally.
 
 Attach screenshot of the Kaggle score you got after submission?
 
