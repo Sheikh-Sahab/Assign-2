@@ -14,6 +14,7 @@ Class ID: 109214,           Semester: Spring-2022
   |     13232     |  Atif Shahid Qureshi   |
   
 Problems you face and how you solved them?
+Creating account on Kraggle. But it got fixed when we create it via Mobile
 
 
 Tasks of each member?
