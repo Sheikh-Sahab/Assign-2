@@ -19,7 +19,7 @@ Problems you face and how you solved them?
 
 -> Downloading Panda Library
 
-Tasks of each member?
+Tasks of each member? 
 
 Combine efforts of all group members, all participants contributed equally.
 
