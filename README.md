@@ -29,4 +29,3 @@ Attach screenshot of the Kaggle score you got after submission?
 
 
 ![image](https://user-images.githubusercontent.com/44039742/169753498-98e6eb59-518e-4853-88a8-dde53fc752b6.png)
-
